@@ -3,6 +3,18 @@
     font-size: 14px;
 }
 
+P  {
+    font-size : 12pt;
+    font-family : verdana,arial;
+    font-weight : normal;
+   }
+
+   BODY  {
+    font-size : 14pt;
+    font-family : verdana;
+    color : White;
+   }
+
 .card {
     width: 22rem;
     border: 1.3px solid lightgray;

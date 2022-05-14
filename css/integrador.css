@@ -40,9 +40,9 @@ P  {
     height:100%;
 }     
     .carousel-text { 
-    margin-right: 4rem
+    margin-right: 4rem;
     text-align: right; 
-    max-widh: 60 ch;
+    max-width: 60 ch;
     color: white;
  }
 
